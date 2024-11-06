@@ -1,30 +1,42 @@
 [
     {
-        "time": 7.21,
-        "city": "New York 1",
+        "time": 2.14,
+        "city": "New York 3",
         "country": "USA",
-        "host": "107.152.43.179",
-        "new": false,
-        "paid": true,
-        "password": "pJTg94JCukVjz2b",
+        "host": "107.152.43.121",
+        "new": true,
+        "paid": false,
+        "password": "j4ho93JmhM4EyF6t4QBSJAoGS8Kr9yB8",
         "port": "3128",
-        "premium": true,
-        "username": "ny_premium"
+        "premium": false,
+        "username": "ny_free_2"
     },
     {
-        "time": 7.99,
-        "city": "Chicago 2",
-        "country": "USA",
-        "host": "107.152.38.99",
+        "time": 2.19,
+        "city": "Hesse",
+        "country": "Germany",
+        "host": "162.19.230.101",
         "new": false,
         "paid": false,
-        "password": "L5KT7rSkCrxn8mm4HngTbK8f4k",
+        "password": "enfo8BM3YDbGfyANYJRCKyL7hGrH",
         "port": "3128",
-        "premium": true,
-        "username": "chicago_squid_user"
+        "premium": false,
+        "username": "hesse_squid_user"
     },
     {
-        "time": 12.86,
+        "time": 2.49,
+        "city": "London",
+        "country": "UK",
+        "host": "83.147.17.103",
+        "new": false,
+        "paid": false,
+        "password": "dsRLomjPDynq7mJQmhKX7QJCLid",
+        "port": "3128",
+        "premium": false,
+        "username": "london_squid_user"
+    },
+    {
+        "time": 4.03,
         "city": "New York 2",
         "country": "USA",
         "host": "107.152.44.132",
@@ -36,27 +48,15 @@
         "username": "nc_squid_user"
     },
     {
-        "time": 13.09,
-        "city": "Los Angeles",
+        "time": 4.45,
+        "city": "New York 1",
         "country": "USA",
-        "host": "107.152.47.150",
+        "host": "107.152.43.179",
         "new": false,
-        "paid": false,
-        "password": "!K3o!nHrs4M5Lxtg",
+        "paid": true,
+        "password": "pJTg94JCukVjz2b",
         "port": "3128",
-        "premium": false,
-        "username": "la_premium"
-    },
-    {
-        "time": Infinity,
-        "city": "Chicago 3",
-        "country": "USA",
-        "host": "107.152.38.47",
-        "new": false,
-        "paid": false,
-        "password": "yirXePSAqCE8jhLg88FBTfCz",
-        "port": "3128",
-        "premium": false,
-        "username": "chicago_squid_user_free"
+        "premium": true,
+        "username": "ny_premium"
     }
 ]
